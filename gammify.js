@@ -1,1 +1,0 @@
-document.getElementById("texto").innerHTML = "hola mundo"
